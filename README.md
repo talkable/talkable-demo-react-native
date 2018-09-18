@@ -6,30 +6,30 @@ You must integrate the documentaion Talkable IOS SDK http://docs.talkable.com/io
 After you create Native Module IOS for calling the methods of Talkable IOS SDK from React Native Application:
 
 1. Create your module files
-  Open the workspace for your app in Xcode and create a new file. Select Cocoa Touch Class to create both a header and an implementation file.
-  Make sure it subclasses NSObject and save it in your App folder.
+Open the workspace for your app in Xcode and create a new file. Select Cocoa Touch Class to create both a header and an implementation file.
+Make sure it subclasses NSObject and save it in your App folder.
 2. Update your header file
-  A .h header file contains all the information about a class that should be publicly known like properties and functions.
-  Update your header file to implement React’s RCTBridgeModule:
+A .h header file contains all the information about a class that should be publicly known like properties and functions.
+Update your header file to implement React’s RCTBridgeModule:
 
-  TalkableBridge.h ( ios/TalkableBridge/TalkableBridge.h)
+TalkableBridge.h ( ios/TalkableBridge/TalkableBridge.h)
 
 3. Update your implementation file
-  A .m implementation file contains the implementations of all functions listed in the header and any private instance variables and methods.
+A .m implementation file contains the implementations of all functions listed in the header and any private instance variables and methods.
 
-  Your class should contain two macros, RCT_EXPORT_MODULE() and RCT_EXPORT_METHOD() . Update your .m file to implement these two macros.
+Your class should contain two macros, RCT_EXPORT_MODULE() and RCT_EXPORT_METHOD() . Update your .m file to implement these two macros.
 
-  RCT_EXPORT_MODULE registers our module with the bridge. It takes an optional argument in case you want to name the JavaScript (JS) module differently to the Objective-C class name.
+RCT_EXPORT_MODULE registers our module with the bridge. It takes an optional argument in case you want to name the JavaScript (JS) module differently to the Objective-C class name.
 
-  RCT_EXPORT_METHOD macro exposes our new method to JS. In this case, we’re just logging the supplied argument back to the console.
+RCT_EXPORT_METHOD macro exposes our new method to JS. In this case, we’re just logging the supplied argument back to the console.
 
-  You must call all native method of Talkable SDK IOS in the main thread.
-  
-  dispatch_async(dispatch_get_main_queue(), ^{
-    [[Talkable manager] registerOrigin:TKBLAffiliateMember params:nil];
-  });
-
-  TalkableBridge.m (ios/TalkableBridge/TalkableBridge.m)
+You must call all native method of Talkable SDK IOS in the main thread.
+```
+dispatch_async(dispatch_get_main_queue(), ^{
+  [[Talkable manager] registerOrigin:TKBLAffiliateMember params:nil];
+});
+```
+TalkableBridge.m (ios/TalkableBridge/TalkableBridge.m)
 
 4. Use your Talkable Native Method in JS
   Our new method is now available in JS through the NativeModules object:
