@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
