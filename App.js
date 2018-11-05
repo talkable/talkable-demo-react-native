@@ -2,9 +2,12 @@ import React from "react";
 import { StyleSheet, Text, View, Button, NativeModules } from "react-native";
 
 const TalkableBridge = NativeModules.TalkableBridge;
+// const TalkableAndroid = NativeModules.TalkableAndroid;
 
 export default class App extends React.Component {
   showStandaloneCampaign = () => {
+    // console.warn(NativeModules.TalkableAndroid);
+    // TalkableBridgeAndroid.showOffer();
     NativeModules.TalkableBridge.registerOriginStandalone({});
   };
 

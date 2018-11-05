@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.talkable:android-sdk-0.5.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-sdk-0.5.6.aar/d325369c503987738171b7d9c53a81cd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-sdk-0.5.6.aar/d325369c503987738171b7d9c53a81cd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
