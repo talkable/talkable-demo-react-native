@@ -35,7 +35,31 @@ TalkableBridge.m (ios/TalkableBridge/TalkableBridge.m)
   Our new method is now available in JS through the NativeModules object:
   - method showStandaloneCampaign in App.js for Standalone Campaign (http://docs.talkable.com/ios_sdk/integration/standalone.html#ios-sdk-integration-standalone)
   - method showPostPurchaseCampaign in App.js for Post Purchase Campaign (http://docs.talkable.com/ios_sdk/integration/post_purchase.html#ios-sdk-integration-post-purchase)
-  
+
+#### `npm run android`
+
+You must integrate the documentaion Talkable Android SDK http://docs.talkable.com/android_sdk/getting_started.html
+
+After you create Native Module Android for calling the methods of Talkable Android SDK from React Native Application:
+
+1. Create your module file
+Open the workspace for your app in Android Studio and create a new file. Select new Java Class to create a file.
+TalkableBridge.java (android/app/src/main/com/your-app-name/TalkableBridge.java)
+
+ReactContextBaseJavaModule requires that a method called getName is implemented. The purpose of this method is to return the string name of the NativeModule which represents this class in JavaScript. So here we will call this TalkableAndroid so that we can access it through React.NativeModules.TalkableAndroid in JavaScript.
+
+2. Register the Module
+Create a new Java Class named TalkableBridgePackage.java
+TalkableBridgePackage.java (android/app/src/main/com/your-app-name/TalkableBridgePackage.java)
+
+3. Update MainApplication.java
+The package needs to be provided in the getPackages method of the MainApplication.java file. This file exists under the android folder in your react-native application directory. The path to this file is: android/app/src/main/java/com/your-app-name/MainApplication.java.
+
+4. Use your Talkable Native Method in JS
+  Our new method is now available in JS through the NativeModules object:
+  - method showStandaloneCampaign in App.js for Standalone Campaign (http://docs.talkable.com/android_sdk/integration/standalone.html)
+  - method showPostPurchaseCampaign in App.js for Post Purchase Campaign (http://docs.talkable.com/android_sdk/integration/post_purchase.html)
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
