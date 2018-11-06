@@ -18,6 +18,7 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \

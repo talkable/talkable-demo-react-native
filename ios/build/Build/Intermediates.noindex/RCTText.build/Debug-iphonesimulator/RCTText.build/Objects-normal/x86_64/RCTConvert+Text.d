@@ -12,4 +12,5 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextTransform.h

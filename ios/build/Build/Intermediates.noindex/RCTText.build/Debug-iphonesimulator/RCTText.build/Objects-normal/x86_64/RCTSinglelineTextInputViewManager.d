@@ -31,6 +31,7 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \

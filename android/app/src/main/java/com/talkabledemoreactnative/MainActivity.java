@@ -1,8 +1,17 @@
 package com.talkabledemoreactnative;
 
+import android.os.Bundle;
+
 import com.facebook.react.ReactActivity;
+import com.talkable.sdk.Talkable;
 
 public class MainActivity extends ReactActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Talkable.trackAppOpen(this);
+    }
 
     /**
      * Returns the name of the main component registered from JavaScript.
@@ -12,4 +21,6 @@ public class MainActivity extends ReactActivity {
     protected String getMainComponentName() {
         return "talkabledemoreactnative";
     }
+
+
 }

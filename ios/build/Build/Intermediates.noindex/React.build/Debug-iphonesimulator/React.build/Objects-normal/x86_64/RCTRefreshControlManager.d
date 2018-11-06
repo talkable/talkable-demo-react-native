@@ -23,4 +23,5 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/UIView+React.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTRefreshControl.h
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTRefreshControl.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

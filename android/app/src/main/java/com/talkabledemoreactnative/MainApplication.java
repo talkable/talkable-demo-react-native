@@ -10,6 +10,7 @@ import com.facebook.soloader.SoLoader;
 
 import java.util.Arrays;
 import java.util.List;
+import com.talkable.sdk.Talkable;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -22,7 +23,8 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage()
+          new MainReactPackage(),
+              new TalkableBridgePackage()
       );
     }
 
@@ -40,6 +42,7 @@ public class MainApplication extends Application implements ReactApplication {
   @Override
   public void onCreate() {
     super.onCreate();
+    Talkable.initialize(this);
     SoLoader.init(this, /* native exopackage */ false);
   }
 }

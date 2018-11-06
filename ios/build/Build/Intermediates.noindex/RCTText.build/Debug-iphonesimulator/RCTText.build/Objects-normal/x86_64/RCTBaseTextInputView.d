@@ -32,4 +32,5 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
