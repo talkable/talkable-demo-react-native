@@ -4,7 +4,7 @@
             "outputFile": "/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b47101a3b8fb6b559167c44767bc2b05/res/values-v24/values-v24.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/36ce262949b5ac0938b304279ac19313/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

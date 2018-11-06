@@ -4,7 +4,7 @@
             "outputFile": "/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b47101a3b8fb6b559167c44767bc2b05/res/values-bs/values-bs.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/36ce262949b5ac0938b304279ac19313/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3b0d7941bf7f586d871acc94d9f574e8/res/values-bs/values-bs.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fbcfbeb907b447bf22e0e044af43f149/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

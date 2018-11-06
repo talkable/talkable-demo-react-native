@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3b0d7941bf7f586d871acc94d9f574e8/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "101",
-                        "endOffsets": "152"
-                    },
-                    "to": {
-                        "startLines": "43",
-                        "startColumns": "4",
-                        "startOffsets": "4029",
-                        "endColumns": "101",
-                        "endOffsets": "4126"
-                    }
-                },
-                {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b47101a3b8fb6b559167c44767bc2b05/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/36ce262949b5ac0938b304279ac19313/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,3951",
                         "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
                         "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,4024"
+                    }
+                },
+                {
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fbcfbeb907b447bf22e0e044af43f149/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "43",
+                        "startColumns": "4",
+                        "startOffsets": "4029",
+                        "endColumns": "101",
+                        "endOffsets": "4126"
                     }
                 }
             ]

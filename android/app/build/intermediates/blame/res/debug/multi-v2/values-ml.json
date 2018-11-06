@@ -4,24 +4,7 @@
             "outputFile": "/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
             "map": [
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3b0d7941bf7f586d871acc94d9f574e8/res/values-ml/values-ml.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "43",
-                        "startColumns": "4",
-                        "startOffsets": "4688",
-                        "endColumns": "100",
-                        "endOffsets": "4784"
-                    }
-                },
-                {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b47101a3b8fb6b559167c44767bc2b05/res/values-ml/values-ml.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/36ce262949b5ac0938b304279ac19313/res/values-ml/values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "1922,2087,2231,2374,2486,2575,2669,2752,2845,2942,3060,3181,3281,3381,3495,3622,3707,3792,3991,4093,4199,4317,4427",
                         "endColumns": "164,143,142,111,88,93,82,92,96,117,120,99,99,113,126,84,84,198,101,105,117,109,178",
                         "endOffsets": "2082,2226,2369,2481,2570,2664,2747,2840,2937,3055,3176,3276,3376,3490,3617,3702,3787,3986,4088,4194,4312,4422,4601"
+                    }
+                },
+                {
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fbcfbeb907b447bf22e0e044af43f149/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "43",
+                        "startColumns": "4",
+                        "startOffsets": "4688",
+                        "endColumns": "100",
+                        "endOffsets": "4784"
                     }
                 }
             ]

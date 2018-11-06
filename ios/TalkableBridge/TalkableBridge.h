@@ -1,5 +1,5 @@
 #import <React/RCTBridgeModule.h>
 
-@interface TalkableBridge : NSObject <RCTBridgeModule>
+@interface TalkableIOS : NSObject <RCTBridgeModule>
 @end
 

@@ -2,10 +2,10 @@
 #import "TalkableBridge.h"
 #import <React/RCTLog.h>
 
-@implementation TalkableBridge
+@implementation TalkableIOS : NSObject
 
 //export the name of the native module as 'Device' since no explicit name is mentioned
-RCT_EXPORT_MODULE(TalkableBridge);
+RCT_EXPORT_MODULE(TalkableIOS);
 
 //exports a method registerOriginStandalone to javascript
 RCT_EXPORT_METHOD(registerOriginStandalone:(NSDictionary *) params) {

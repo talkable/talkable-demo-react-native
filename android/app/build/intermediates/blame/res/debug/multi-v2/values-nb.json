@@ -4,7 +4,24 @@
             "outputFile": "/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b47101a3b8fb6b559167c44767bc2b05/res/values-nb/values-nb.xml",
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fbcfbeb907b447bf22e0e044af43f149/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "42",
+                        "startColumns": "4",
+                        "startOffsets": "4293",
+                        "endColumns": "100",
+                        "endOffsets": "4389"
+                    }
+                },
+                {
+                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/36ce262949b5ac0938b304279ac19313/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "1804,1962,2107,2246,2357,2438,2524,2605,2694,2785,2898,3007,3098,3189,3290,3406,3486,3659,3756,3856,3969,4077",
                         "endColumns": "157,144,138,110,80,85,80,88,90,112,108,90,90,100,115,79,172,96,99,112,107,136",
                         "endOffsets": "1957,2102,2241,2352,2433,2519,2600,2689,2780,2893,3002,3093,3184,3285,3401,3481,3654,3751,3851,3964,4072,4209"
-                    }
-                },
-                {
-                    "source": "/Users/epodgaetskiy/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3b0d7941bf7f586d871acc94d9f574e8/res/values-nb/values-nb.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "42",
-                        "startColumns": "4",
-                        "startOffsets": "4293",
-                        "endColumns": "100",
-                        "endOffsets": "4389"
                     }
                 }
             ]

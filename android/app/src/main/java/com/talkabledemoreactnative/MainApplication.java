@@ -23,7 +23,8 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage()
+          new MainReactPackage(),
+              new TalkableBridgePackage()
       );
     }
 
@@ -44,10 +45,4 @@ public class MainApplication extends Application implements ReactApplication {
     Talkable.initialize(this);
     SoLoader.init(this, /* native exopackage */ false);
   }
-
-    protected List<ReactPackage> getPackages() {
-        return Arrays.<ReactPackage>asList(
-                new MainReactPackage(),
-                new TalkableBridgePackage()); // <-- Add this line with your package name.
-    }
 }
