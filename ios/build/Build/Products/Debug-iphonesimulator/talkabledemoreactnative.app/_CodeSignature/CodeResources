@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		G64FRrhcjCl53e7BpTPave7V4Bs=
+		dZexDtxjqNVnb+3RVRKdPfOfhQk=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		otBoMsQM8DPv0cqwUkGHsJgoHqI=
+		bWduSgOZGjyZMY02WTtwxUIBJnE=
 		</data>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		T6gIgWfIQZcNaglsFfEhSTk3KA0=
+		h18iEU/KQJeaThzxDICpHLbf5oo=
 		</data>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DwlzR0Fc6dPyA68V6evZkjW/G+c=
+		50I8lJhg4M3MJqCwCjcTd3iAAEc=
 		</data>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		M3EBma1BpAxt7iGIjYcrm9BnNOc=
+		HK6asLJ70IK7E4e83e8R1gxACHo=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5EUn1qFgVTwSkfSLCubcLwgrx0c=
+		/8LQToTPOL9FsEsYDaACQ21Day0=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -75,11 +75,15 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		Etc/8BPenX54rv1uBx24u4bnqTg=
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3utFKE94cUF+44CC8WbyQ4/lqzk=
+		KqusRhOjYyu8UPAClB7cPYSZ9KU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -91,19 +95,19 @@
 		</data>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest.dSYM/Contents/Resources/DWARF/talkabledemoreactnativeTests</key>
 		<data>
-		I29i2ywhI9Wr5pycqWXp+E9urws=
+		+jt9vkJJFwFLNL6UbKcnSRKlhgI=
 		</data>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/Info.plist</key>
 		<data>
-		/I63fpTQlJ8LhT2UXxVgVua5y24=
+		hvvPDsVkYPz3UoaZHj1ig6s8Hqo=
 		</data>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		ad/FQodotEizixybqNJObrBt9xw=
+		GdC3iIsZC9G1RNceHoDNp51oRu8=
 		</data>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/talkabledemoreactnativeTests</key>
 		<data>
-		PV3eVWr7Tn4Ff8Htm8mIN10PMos=
+		/tS5XKo9mjDNqnub6D6rC2GibyE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -112,11 +116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G64FRrhcjCl53e7BpTPave7V4Bs=
+			dZexDtxjqNVnb+3RVRKdPfOfhQk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Nedl/T5QbCJJ9Jymd2RB2Vj7opu0VA7PF5FSxlESKU=
+			jHSG6VUW5EJuw5pjo0l0ISCpi0c4JVWD8lKnyPpaiCs=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -189,11 +193,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			otBoMsQM8DPv0cqwUkGHsJgoHqI=
+			bWduSgOZGjyZMY02WTtwxUIBJnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jEHdMF6tfmeftKuDbTpzuIg+7Lp8iDAWkiNx3fvo50s=
+			gmxkMI2UvOxlQPopgY7KTbLQwAn9KzihEHhCYPzKems=
 			</data>
 		</dict>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -211,22 +215,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T6gIgWfIQZcNaglsFfEhSTk3KA0=
+			h18iEU/KQJeaThzxDICpHLbf5oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4a+Pji6V+Qte8PD9fJE997Fm4uUWXFLQnArBpma8jqc=
+			cYDgLeUY3B5RMCmvqF9rRBjVCYBgshQ3vC/UhvsiS7I=
 			</data>
 		</dict>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DwlzR0Fc6dPyA68V6evZkjW/G+c=
+			50I8lJhg4M3MJqCwCjcTd3iAAEc=
 			</data>
 			<key>hash2</key>
 			<data>
-			VtZjxucKxztNt4fqDAnrR5aOBzAod+xCQzMsztn5THw=
+			MyPzz75bc3z7/cxE7Edj9Z1bSrrQs7V2UVp/Z2cTZgU=
 			</data>
 		</dict>
 		<key>Frameworks/TalkableSDK.framework/_CodeSignature/CodeSignature</key>
@@ -244,33 +248,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M3EBma1BpAxt7iGIjYcrm9BnNOc=
+			HK6asLJ70IK7E4e83e8R1gxACHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5EUn1qFgVTwSkfSLCubcLwgrx0c=
+			/8LQToTPOL9FsEsYDaACQ21Day0=
 			</data>
 			<key>hash2</key>
 			<data>
-			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -290,11 +294,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Etc/8BPenX54rv1uBx24u4bnqTg=
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
 			</data>
 		</dict>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest.dSYM/Contents/Info.plist</key>
@@ -312,50 +327,50 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I29i2ywhI9Wr5pycqWXp+E9urws=
+			+jt9vkJJFwFLNL6UbKcnSRKlhgI=
 			</data>
 			<key>hash2</key>
 			<data>
-			SVxbG5ejIrsaxtqA18Uw6ZFMO+45f3p6F08rR4bp018=
+			auMLX2dtJlO3vJU2+iOFwBaNGaYKMGixNcAuvq8UVIU=
 			</data>
 		</dict>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/I63fpTQlJ8LhT2UXxVgVua5y24=
+			hvvPDsVkYPz3UoaZHj1ig6s8Hqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yzqqijJOFTVovVk64ARlRuBwKn5jZGKPUB6nYcMg/Ps=
+			hbyh3zogFRyaqYsf34tiYgoRWBXLNPa5+i5L9NMRQXg=
 			</data>
 		</dict>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ad/FQodotEizixybqNJObrBt9xw=
+			GdC3iIsZC9G1RNceHoDNp51oRu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eTB2jRKEcXbijFI+hIuPiP3sxhVJnSZ1TBG5BqwPzFk=
+			OIoE1b4C+8MtI7NivS0OrsHeCx/UCVPup0qumLA6XWQ=
 			</data>
 		</dict>
 		<key>PlugIns/talkabledemoreactnativeTests.xctest/talkabledemoreactnativeTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PV3eVWr7Tn4Ff8Htm8mIN10PMos=
+			/tS5XKo9mjDNqnub6D6rC2GibyE=
 			</data>
 			<key>hash2</key>
 			<data>
-			OaarYzt00BzFJv4DFrZ7r0LzQLEugfLyhnfpREOetIA=
+			Si57I/a+/VEVe87rEADVyPsHIOjASZcl9pRcWzJeMR8=
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -386,24 +401,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -439,13 +442,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

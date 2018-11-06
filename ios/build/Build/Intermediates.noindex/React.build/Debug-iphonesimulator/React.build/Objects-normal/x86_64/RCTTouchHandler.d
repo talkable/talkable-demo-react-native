@@ -12,6 +12,7 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTLog.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTTouchEvent.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Modules/RCTUIManager.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTRootView.h \

@@ -1,4 +1,5 @@
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxMethod.o
+/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSExecutor.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerUtils.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Internal.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
@@ -24,6 +25,7 @@
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBorderDrawing.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxConvert.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
+/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebViewManager.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAssert.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerObserverCoordinator.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
@@ -102,10 +104,12 @@
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyCommands.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
+/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/YGConfig.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBridge.o
+/Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebView.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Layout.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
 /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedView.o

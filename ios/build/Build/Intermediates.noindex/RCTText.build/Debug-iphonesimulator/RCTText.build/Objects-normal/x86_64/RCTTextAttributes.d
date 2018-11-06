@@ -2,6 +2,7 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextAttributes.m \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \

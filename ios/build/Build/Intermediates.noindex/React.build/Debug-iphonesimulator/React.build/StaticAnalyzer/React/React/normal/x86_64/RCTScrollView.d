@@ -11,9 +11,9 @@ dependencies: \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTView.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/epodgaetskiy/Web/Talkable/talkable-demo-react-native/node_modules/react-native/React/Views/RCTAnimationType.h \
